@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/to_slug.rb",
     "test/helper.rb",
-    "test/test_to_slug.rb"
+    "test/test_to_slug.rb",
+    "to_slug.gemspec"
   ]
   s.homepage = "http://github.com/piousbox/to_slug"
   s.licenses = ["MIT"]
