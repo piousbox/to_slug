@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "to_slug"
   gem.homepage = "http://github.com/piousbox/to_slug"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{gives strings method to_slug, to generate human-readable id`s}
+  gem.description = %Q{encapsulation of this solution http://stackoverflow.com/questions/1302022/best-way-to-generate-slugs-human-readable-ids-in-rails}
   gem.email = "piousbox@gmail.com"
   gem.authors = ["Victor Pudeyev"]
   # dependencies defined in Gemfile
